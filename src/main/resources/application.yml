@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: springBootBanner
+  output:
+    ansi:
+      enabled: ALWAYS
+
+springdoc:
+  swagger-ui:
+    enabled: true
+  api-docs:
+    enabled: true
